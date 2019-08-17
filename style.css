@@ -1,0 +1,77 @@
+.container-wrapper{
+    height:100%;
+    width:100%;
+    
+}
+.header{
+    height:10%;
+    width:100%;
+    
+}
+.container{
+    height:80%;
+    width:100%;
+    background-color: blue;
+}
+.footer{
+    height:10%;
+    width:100%;
+    background-color: blueviolet;
+}
+.section1{
+    width:40%;
+}
+.contact{
+    font-size: 30px;
+    font-weight: bold;
+    color: chocolate;
+    margin-top: 25px;
+}
+.coimbatore{
+    font-size: 30px;
+    font-weight: bold;
+    color: chocolate;
+    margin-top: 25px;
+}
+.section2{
+    width: 30%;
+    background-color: burlywood;
+}
+.section3{
+    width:30%;
+    background-color: cadetblue;
+    
+}
+.left{
+    float:left;
+}
+.f1{
+    width:40%;
+    background-color: chartreuse;
+}
+.f2{
+    width:20%;
+    background-color: chocolate;
+}
+.f3{
+    width: 10%;
+    background-color: cornflowerblue;
+}
+.f4{
+    width: 10%;
+    background-color: coral;
+}
+.f5{
+    width: 10%;
+    background-color: crimson;
+}
+.f6{
+    width: 10%;
+    background-color: cornsilk;
+}
+.text-center{
+    text-align: center;
+}
+.full-height{
+    height: 100%;
+}
